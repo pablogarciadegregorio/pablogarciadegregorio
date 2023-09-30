@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UX Design, Figma**
 
-- 💬 Ask me about **Music & Design, **
+- 💬 Ask me about **Music & Design**
 
 - 📫 How to reach me **bleraspa@gmail.com**
 
