@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A Fullstack mobile app for private lessons**
 
-- 🌱 I’m currently learning **UX Design, Figma**
+- 🌱 I’m currently learning **UX Design, Figma, NodeJs**
 
-- 💬 Ask me about **Music & Design**
+- 💬 Ask me about **Music & Design, Functional Diversity**
 
 - 📫 How to reach me **bleraspa@gmail.com**
 
