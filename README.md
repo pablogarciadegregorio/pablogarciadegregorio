@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **A Fullstack mobile app for private classes**
+- 🔭 I’m currently working on **A Fullstack mobile app for private lessons**
 
 - 🌱 I’m currently learning **UX Design, Figma**
 
