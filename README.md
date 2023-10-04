@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate fullstack developer from Spain</h3>
+
+- 👦 I'm a knowledge-hungry person, always on the lookout to learn something new.
 
 - 🔭 I’m currently working on **A Fullstack mobile app for private lessons**
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **bleraspa@gmail.com**
 
-- ⚡ Fun fact: **I play drums 🥁**
+- ⚡About Me: **I play drums 🥁. I work with handicapped people 👨‍🦽. I'm a waterpolo coach 🤽**
 
 <h3 align="left">Connect with me: www.linkedin.com/in/pablo-degregorio</h3>
 <p align="left">
