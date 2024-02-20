@@ -3,9 +3,7 @@
 
 - 👦 I'm a knowledge-hungry person, always on the lookout to learn something new.
 
-- 🔭 I’m currently working on **A Fullstack mobile app for private lessons**
-
-- 🌱 I’m currently learning **UX Design, Figma, NodeJs**
+- 🔭 I’m currently working on **A all in one training stats app**
 
 - 💬 Ask me about **Music & Design, Functional Diversity**
 
